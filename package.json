@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-plugin-page-wrap",
+  "version": "0.0.0-development",
+  "description": "Gatsby plugin to conveniently wrap a component around pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keplersj/gatsby-plugin-page-wrap.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "react",
+    "hoc"
+  ],
+  "author": "Kepler Sticka-Jones <kepler@stickajones.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keplersj/gatsby-plugin-page-wrap/issues"
+  },
+  "homepage": "https://github.com/keplersj/gatsby-plugin-page-wrap#readme"
+}
